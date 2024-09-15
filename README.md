@@ -66,8 +66,8 @@ Also, the logger (which apparently shows errors in webserver.log) and the web se
 
 ## Resources used:
 
-https://ocw.cs.pub.ro/courses/asc/laboratoare/03
-https://docs.python.org/3/library/queue.html
-https://stackoverflow.com/questions/44106283/python-multiprocessing-queue-get-timeout-despite-full-queue
-https://youtu.be/mqhxxeeTbu0?si=9QdtlKpbOVPexKD6
-https://youtu.be/9MHYHgh4jYc?si=6h18GQaUonZcwY0A
+- https://ocw.cs.pub.ro/courses/asc/laboratoare/03
+- https://docs.python.org/3/library/queue.html
+- https://stackoverflow.com/questions/44106283/python-multiprocessing-queue-get-timeout-despite-full-queue
+- https://youtu.be/mqhxxeeTbu0?si=9QdtlKpbOVPexKD6
+- https://youtu.be/9MHYHgh4jYc?si=6h18GQaUonZcwY0A
